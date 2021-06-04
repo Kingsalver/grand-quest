@@ -25,6 +25,7 @@ public class Player extends Entity {
 
 
 
+
     public String getWeapon() {
         return weapon;
     }
